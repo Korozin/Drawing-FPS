@@ -1,0 +1,11 @@
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\bin\Debug\Draw-FPS.exe.config
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\bin\Debug\Draw-FPS.exe
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\bin\Debug\Draw-FPS.pdb
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\obj\Debug\Draw-FPS.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\obj\Debug\Draw-FPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\obj\Debug\Draw_FPS.Source.resources
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\obj\Debug\Draw_FPS.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\obj\Debug\Draw-FPS.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\obj\Debug\Draw-FPS.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\obj\Debug\Draw-FPS.exe
+C:\Users\Apple_kun\Desktop\Draw-FPS\Draw-FPS\obj\Debug\Draw-FPS.pdb
