@@ -1,7 +1,8 @@
 ## Drawing-FPS
 Software for drawing both Application and PC FPS  
-`Application-FPS.py` uses `time` module to get the FPS of the Python program  
-`CPU-FPS.py` uses the `psutil` module to calculate the FPS of the PC via the CPU Cores.
+
+[`Application-FPS.py`](https://github.com/Korozin/Drawing-FPS/blob/master/Application-FPS.py) uses [`time`](https://docs.python.org/3/library/time.html) module to get the FPS of the Python program  
+[`CPU-FPS.py`](https://github.com/Korozin/Drawing-FPS/blob/master/Application-CPU.py) uses the [`psutil`](https://pypi.org/project/psutil/) module to calculate the FPS of the PC via the CPU Cores.
 
 ### Issues
 
