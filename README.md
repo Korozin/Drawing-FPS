@@ -10,7 +10,7 @@ It seems that the program sometimes crashes.
 
 ## Screenshot
 
-<img src="">
+<img src="https://github.com/Sakamochanq/Drawing-FPS/blob/master/assets/App.png" alt="App">
 
 ## Compile
 
